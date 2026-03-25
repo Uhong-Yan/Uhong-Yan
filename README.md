@@ -23,6 +23,8 @@
 ## 技術紀錄
 
 * **iThome 鐵人賽**：連續兩年完賽，共發表60篇技術專文。
+* **參與2025臺北秋季程式設計節|城市通微服務⼤⿊客松** ：實作「台北藝⽂探索地圖」。
 * **NVIDIA DLI 證書**：
     * Prompt Engineering
     * Building RAG Agents with LLMs
+* **醫學資訊管理師證照**
